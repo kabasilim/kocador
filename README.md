@@ -15,3 +15,8 @@
 ## how to use the site
 - git clone the repo
 - connect localhost 300
+
+## Color
+- ocean blue
+- white
+- gold.
